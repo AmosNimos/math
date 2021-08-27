@@ -7,7 +7,7 @@ from math import atan
 from math import tan
 
 #Find the sides of a right-triangle
-def f-side(Angle,Opos,Adja,Hypo):
+def f_side(Angle,Opos,Adja,Hypo):
 	A = Angl
 	a = Opos
 	b = Adja
@@ -29,7 +29,7 @@ def f-side(Angle,Opos,Adja,Hypo):
 		return "Error","Error"
 
 #Find the angle of a right-triangle
-def f-angl(Angle,Opos,Adja,Hypo):
+def f_angl(Angle,Opos,Adja,Hypo):
 	A = Angle
 	a = Opos
 	b = Adja
