@@ -1,2 +1,2 @@
 # math
-Math related prrogrmmes, fomula and algorithms 
+Math related notes, fomula and algorithms 
